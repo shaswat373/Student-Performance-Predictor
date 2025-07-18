@@ -20,16 +20,3 @@ The dataset contains:
   - Test preparation course status  
   - Math, reading, and writing scores
 
----
-## How to Use
-1. Open `student.ipynb` in Google Colab  
-2. Upload `data2.zip` when prompted  
-3. Run all cells  
-4. When asked, enter:
-   - Gender (e.g. `male`)  
-   - Parental education (e.g. `bachelor's degree`)  
-   - Test prep status (e.g. `completed`)  
-   - Math, reading, and writing scores (0–100)  
-5. View the predicted final average score
-
----
